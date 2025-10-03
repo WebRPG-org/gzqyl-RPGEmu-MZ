@@ -2,7 +2,7 @@
 
 [MZEmu](https://github.com/gzqyl/MZEmu) © 2025 by [Ping Yan](https://www.soulyin.com/) is licensed under Creative Commons Attribution-NoDerivatives 4.0 International 
 
-# This Project Could generate a RPG Maker MZ ROM File in zip format (need to install RPG Maker MZ on your windows, then load this project to run and build), For Testing "MZEmu for RPG Maker MZ" Only, short name is "MZEmu"
+# This Project Could generate a RPG Maker MZ ROM File in zip format (just archive the Product/Demo directory will get the Demo.zip), For Testing "MZEmu for RPG Maker MZ" Only, short name is "MZEmu"
 
 The MZEmu Once is Published, the install link should be [MZEmu](https://apps.apple.com/us/app/id6752850236)
 
